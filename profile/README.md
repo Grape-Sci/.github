@@ -5,7 +5,7 @@
 
 <h2>Sobre nós</h2>
 
-<p> A GrapeSci possui um time qualificado na áre da tecnologia, que consegue compreender e desenvolver projetos que atendam a necessidade do cliente, visando a qualidade na <b>transformação de processos</b>, e uma experiência incrível ao nosso cliente. Temos como foco o maior entendimento da necessidade do cliente, para desenvolvermos a melhor solução do mercado!
+<p> A GrapeSci possui um time qualificado na área da tecnologia, que consegue compreender e desenvolver projetos que atendam a necessidade do cliente, visando a qualidade na <b>transformação de processos</b>, e uma experiência incrível ao nosso cliente. Temos como foco o maior entendimento da necessidade do cliente, para desenvolvermos a melhor solução do mercado!
 </p>
 
 <h2>Sobre o projeto</h2>
